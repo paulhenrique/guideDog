@@ -1,0 +1,32 @@
+.bg-index{
+	background-image: url(../img/bg-black2.png);
+	background-size: 100% auto;
+	background-position-y: -240px;
+	height: 600px;
+}
+.bg-index2{
+	background-image: url(../img/bg-black2.png);
+	background-size: 100% auto;
+	background-position-y: -310px;
+	height: 400px;
+	-webkit-transform: rotate(180deg);
+	-moz-transform: rotate(180deg);
+	-ms-transform: rotate(180deg);
+	-o-transform: rotate(180deg);
+	transform: rotate(180deg);
+}
+.uppercase{
+	text-transform: uppercase;
+}
+.bold{
+	font-weight: bold;
+}
+.font-size-6rem{
+	font-size: 6rem;
+}
+nav{
+	background: rgba(0, 0, 0, 0);
+}
+nav div ul li a{
+	color: #00bfa5;
+}
